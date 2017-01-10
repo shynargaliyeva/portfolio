@@ -6,6 +6,10 @@ p {
 	font-family: "Comic Sans MS", "Comic Sans", cursive;
 }
 
+.port_img {
+	width: 300px;
+}
+
 #my_name {
 	text-align: center;
 	color: white;
@@ -18,5 +22,13 @@ p {
 }
 
 #about_me {
+	color: white;
+}
+
+#portfolio {
+	color: white;
+}
+
+#follow_me {
 	color: white;
 }
